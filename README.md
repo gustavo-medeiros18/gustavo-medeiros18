@@ -1,4 +1,4 @@
-Hi, I'm Gustavo Medeiros! 👋👨‍💻
+# Hi, I'm Gustavo Medeiros! 👋👨‍💻
 
 # 💫 About Me:
 Node.js back-end developer and Computer Science student. Currently learning Adonis.js and Docker.
