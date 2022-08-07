@@ -1,7 +1,7 @@
 # Hi, I'm Gustavo Medeiros! 👋👨‍💻
 
 ## 💫 About Me:
-Node.js back-end developer and Computer Science student. Currently learning Adonis.js and Docker.
+Currently I'm a Computer Science academic at State University Acaraú Valley. Some years ago, I've discovered the amazing world of software development. Since then, I started to dedicate myself a lot to this area that becomes more and more important to the society, mostly to the people that make part of it. Currently, I'm a Junior Back-end Developer, my main tech stack is composed by JavaScript/TypeScript frameworks from the Node.js enviroment, like Express.js and Adonis.js. I'm searching for a Junior developer vacancy, since I want so much to contribute for the labor market through the knowledge I already have, and also because I want to learn even more through experience, vivency and collaboration in labor activities of the IT market.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-medeiros-6ba1bb1b3) 
