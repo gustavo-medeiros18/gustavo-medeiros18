@@ -22,8 +22,6 @@ GitHub: github.com/gustavo-medeiros18
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-medeiros-6ba1bb1b3)
-Email: dev.gusmedeiros@gmail.com
-GitHub: github.com/gustavo-medeiros18
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
