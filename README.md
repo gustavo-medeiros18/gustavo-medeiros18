@@ -1,12 +1,15 @@
-🙋‍♂️ Sou um desenvolvedor backend com mais de 3 anos de experiência em implementar soluções eficientes e de alta qualidade. Estou em constante atualização para me tornar um profissional cada vez mais qualificado.
+# 💫 Sobre mim:
+Desenvolvedor Fullstack/Backend a mais de 4 anos, especializado em desenvolvimento backend com NodeJS (JavaScript e TypeScript) e desenvolvimento fullstack com Java e Angular. Sou concludente do curso de Ciência da Computação.<br><br>Hard skills<br><br>> Backend<br>- Frameworks: ExpressJS, NestJS, AdonisJS e Spring Boot.<br>- SQL: MySQL, PostgreSQL, SQLite e H2.<br>- NoSQL: MongoDB.<br>- ORM: TypeORM, Hibernate.<br>- Security: JWT.<br>- Testes: Jest, Junit, Mockito e Test containers.<br>- Cloud: AWS e Google Cloud.<br>- Infraestrutura: Docker<br><br>> Frontend<br>- AngularJS<br>- Bootstrap<br><br>> Contatos<br>- Email: dev.gusmedeiros@gmail.com<br>- Github: gustavo-medeiros18
 
-🧑‍💻 Minhas principais tecnologias são NodeJS, TypeScript, NestJS e MySQL. Minhas experiências também incluem JavaScript, Express, AdonisJS, MongoDB e Docker, além de práticas ágeis como Scrum e Kanban. Estudo e pratico essas tecnologias através de cursos, documentações e projetos.
+# 💻 Trabalho com:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-💪 Transparente e organizado, tenho uma comunicação super direta e alta disciplina para realizar todas as entregas rapidamente. Por ter colaborado em equipes multiprofissionais, busco ir muito além da escrita de código para compreender todo o ciclo de vida do software.
+## 🌐 Redes sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-medeiros-backend) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gugamedeiros517) 
 
-🚀 Atualmente procuro uma posição como dev. backend em um polo tecnológico. Quero contribuir para o crescimento do seu negócio, trazer êxito a grandes projetos e integrar uma equipe dinâmica.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gustavo-medeiros18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gustavo-medeiros18&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-medeiros18&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📧 Contatos
-
-Email: dev.gusmedeiros@gmail.com
-GitHub: github.com/gustavo-medeiros18
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
